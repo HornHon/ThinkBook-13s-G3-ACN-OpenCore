@@ -15,8 +15,7 @@ TrackPad
 
 **Maybe Not Works:**    
 Sleep  
-FaceTime & other iServices  
-Some GPU HW Accelerate Apps maybe abnormal  
+Some GPU HW Accelerate Apps    
 …  
 
 **BIOS Settings:**  
