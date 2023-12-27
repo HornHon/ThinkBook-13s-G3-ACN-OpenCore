@@ -7,6 +7,7 @@
 **What Works:**  
 CPU Temp & Power Monitor (Use [AMD.Power.Gadget.app.zip](https://github.com/trulyspinach/SMCAMDProcessor/releases))  
 iGPU Acceleration  
+Builtin Speaker & Mic  
 Fn Key Brightness & Audio Adjust  
 Intel WiFi & BlueTooth  
 Battery Info  
