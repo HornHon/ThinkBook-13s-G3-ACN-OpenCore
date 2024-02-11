@@ -1,7 +1,7 @@
 # ThinkBook 13s G3 ACN Hackintosh  
  OpenCore For Lenovo ThinkBook 13s G3 ACN Laptop - Type 20YA  
 
-**Latest on Sonoma 14.2.1**
+**Latest on Sonoma 14.3.1**
 
 **Hardware Info:**  
 <img width="40%" src="https://github.com/HornHon/ThinkBook-13s-G3-ACN-OpenCore/assets/38846938/98d4abf5-5632-46fe-bae8-8f3e894c310c">  
