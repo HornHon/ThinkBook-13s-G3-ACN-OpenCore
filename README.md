@@ -1,7 +1,8 @@
 # ThinkBook 13s G3 ACN Hackintosh  
  OpenCore For Lenovo ThinkBook 13s G3 ACN Laptop - Type 20YA  
 
-**Latest on Sonoma 14.3.1**
+**Latest on Sonoma 14.4**  
+Upgrade form 14.3 or new install 14.4 should set Misc -> Security -> SecureBootModel to **Disabled**  
 
 **Hardware Info:**  
 <img width="40%" src="https://github.com/HornHon/ThinkBook-13s-G3-ACN-OpenCore/assets/38846938/98d4abf5-5632-46fe-bae8-8f3e894c310c">  
@@ -17,11 +18,11 @@ Fn Key Brightness & Audio Adjust
 Intel WiFi & BlueTooth  
 Battery Info  
 TrackPad  
-…  
+...  
 
 **Maybe Not Works:**    
 Sleep  
-…  
+...  
 
 **BIOS Settings:**  
 Secure Boot Disabled  
@@ -35,4 +36,4 @@ iGPU VRAM 2GB
 [https://github.com/OpenIntelWireless/](https://github.com/OpenIntelWireless/)  
 [https://dortania.github.io/OpenCore-Install-Guide/](https://dortania.github.io/OpenCore-Install-Guide/)  
 [https://apple.sqlsec.com/](https://apple.sqlsec.com/)  
-…
+...  
